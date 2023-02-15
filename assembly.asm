@@ -1,5 +1,5 @@
 segment .data
-    bday db "Happy Birthday, mom!", 0xA, 0
+    bday db "Happy birthday, mom!", 0xA, 0
 
 segment .text
     global main
